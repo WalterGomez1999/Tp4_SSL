@@ -1,4 +1,4 @@
-# Trabajo Práctico N°3 Flex y Bison
+# Trabajo Práctico N°4 Análisis del compilador de micro realizado en C
 ## Consigna:
 1)  Compilar el Código entregado en clase.
 2)  Preparar 3 programas en micro: 1 correcto , 1 con error léxico , 1 con error sintáctico y semántico.
